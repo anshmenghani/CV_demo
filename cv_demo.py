@@ -1,3 +1,5 @@
+#This code is a snippet of a larger project I did that uses computer vision to grade photos through attributes such as red eye detection, facial recognition, blur, saturation, brightness, etc. It also enhances the photo using what it found through the analysis.
+
 import PIL.Image
 from PIL import Image
 import time
